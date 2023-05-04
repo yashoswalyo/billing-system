@@ -1,0 +1,9 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: billing-api
+    src: ./
+    engine: python3.9
+    primary: true
+    run: python3 main.py
+    public: true
