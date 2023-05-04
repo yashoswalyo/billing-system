@@ -13,6 +13,7 @@ Note: The endpoints  <code>id</code> in the request (currently it doesn't create
 <hr>
 
 ### API Reference: https://apibackend-1-u9070050.deta.app/docs
+Just for reference, you cannot execute queries
 <hr>
 
 ### In (./arduino_codes):
