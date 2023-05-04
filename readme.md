@@ -1,7 +1,7 @@
 # Billing System using RFID & ESP 8266
 
 ## Run Local
-- Folder `./billing_system` for arduino codes.
+- Folder `./arduino_codes` for arduino codes.
 - Install requirements from `requirements.txt`.
 - Fill `MONGODB_API` variable in utilities/database.py.
 - Run `python3 main.py`.
