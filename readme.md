@@ -9,7 +9,7 @@
 Open browser to <code>http://localhost:6789/docs</code>.
 <br>
 Use this api to and create your own Web/Mobile application,<br> 
-Note: The endpoints  <code>id</code> in the request (currently it doesn't create unique <code>id</code>).
+Note ⚠️: The endpoints <code>/user/regiser</code> and <code>/product/new</code> does not genereate <code>id</code> param ATM.  (currently it doesn't create unique <code>id</code>).
 <hr>
 
 ### API Reference: https://apibackend-1-u9070050.deta.app/docs
